@@ -16708,7 +16708,7 @@ gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDTYOKObjects2Objects = Hashtable.newFr
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects1Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects1});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects1Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects1});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDEventManorObjects1Objects = Hashtable.newFrom({"EventManor": gdjs.HubCode.GDEventManorObjects1});
-gdjs.HubCode.userFunc0x392a910 = function GDJSInlineCode(runtimeScene) {
+gdjs.HubCode.userFunc0x38c1980 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 const day = new Date().getDay();
 runtimeScene.getVariables().get("Day").setNumber(day);
@@ -16718,7 +16718,7 @@ gdjs.HubCode.eventsList72 = function(runtimeScene) {
 {
 
 
-gdjs.HubCode.userFunc0x392a910(runtimeScene);
+gdjs.HubCode.userFunc0x38c1980(runtimeScene);
 
 }
 
@@ -17674,7 +17674,7 @@ gdjs.copyArray(runtimeScene.getObjects("ChallengeBurgle_"), gdjs.HubCode.GDChall
 }
 
 
-};gdjs.HubCode.userFunc0x52530f8 = function GDJSInlineCode(runtimeScene) {
+};gdjs.HubCode.userFunc0xd13cff8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 const day = new Date().getDay();
 runtimeScene.getVariables().get("Day").setNumber(day);
@@ -17684,7 +17684,7 @@ gdjs.HubCode.eventsList76 = function(runtimeScene) {
 {
 
 
-gdjs.HubCode.userFunc0x52530f8(runtimeScene);
+gdjs.HubCode.userFunc0xd13cff8(runtimeScene);
 
 }
 
@@ -18058,7 +18058,7 @@ if (isConditionTrue_0) {
 };gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects2Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects2});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects2Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects2});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDRandomObjects2Objects = Hashtable.newFrom({"Random": gdjs.HubCode.GDRandomObjects2});
-gdjs.HubCode.userFunc0x561c288 = function GDJSInlineCode(runtimeScene) {
+gdjs.HubCode.userFunc0xd0c4ba0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ----------------------------
 // GDevelop JS Event: VALID → THEN SHIFT (SAFE + FIXED)
@@ -18224,7 +18224,7 @@ gdjs.HubCode.eventsList81 = function(runtimeScene) {
 {
 
 
-gdjs.HubCode.userFunc0x561c288(runtimeScene);
+gdjs.HubCode.userFunc0xd0c4ba0(runtimeScene);
 
 }
 
@@ -18252,7 +18252,7 @@ gdjs.copyArray(runtimeScene.getObjects("uncompletedtext"), gdjs.HubCode.GDuncomp
 };gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects3Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects3});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects3Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects3});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDLoadManorObjects3Objects = Hashtable.newFrom({"LoadManor": gdjs.HubCode.GDLoadManorObjects3});
-gdjs.HubCode.userFunc0x6f850a8 = function GDJSInlineCode(runtimeScene) {
+gdjs.HubCode.userFunc0x5abfed8 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ----------------------------
 // GDevelop JS Event: Dual Code Loader (Old + New, FIXED USERNAME & EVENT VARS, NEW MODE 0-5)
@@ -18752,7 +18752,7 @@ let isConditionTrue_0 = false;
 {
 
 
-gdjs.HubCode.userFunc0x6f850a8(runtimeScene);
+gdjs.HubCode.userFunc0x5abfed8(runtimeScene);
 
 }
 
@@ -26189,7 +26189,7 @@ gdjs.HubCode.eventsList121(runtimeScene);} //End of subevents
 };gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects2Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects2});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects2Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects2});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDToCreateObjects2Objects = Hashtable.newFrom({"ToCreate": gdjs.HubCode.GDToCreateObjects2});
-gdjs.HubCode.userFunc0x73bc540 = function GDJSInlineCode(runtimeScene) {
+gdjs.HubCode.userFunc0x270f588 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ----------------------------
 // GDevelop JS Event: Generate Encrypted Layout Code + Username
@@ -27688,7 +27688,7 @@ if (isConditionTrue_0) {
 {
 
 
-gdjs.HubCode.userFunc0x73bc540(runtimeScene);
+gdjs.HubCode.userFunc0x270f588(runtimeScene);
 
 }
 
@@ -27908,7 +27908,7 @@ gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDSaveObjects2Objects = Hashtable.newFr
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects2Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects2});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects2Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects2});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDSaveObjects2Objects = Hashtable.newFrom({"Save": gdjs.HubCode.GDSaveObjects2});
-gdjs.HubCode.userFunc0xa4e3af0 = function GDJSInlineCode(runtimeScene) {
+gdjs.HubCode.userFunc0x2f72ad0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ----------------------------
 // Copy DisplayText object string to clipboard
@@ -27939,7 +27939,7 @@ gdjs.HubCode.eventsList125 = function(runtimeScene) {
 {
 
 
-gdjs.HubCode.userFunc0xa4e3af0(runtimeScene);
+gdjs.HubCode.userFunc0x2f72ad0(runtimeScene);
 
 }
 
@@ -27947,7 +27947,7 @@ gdjs.HubCode.userFunc0xa4e3af0(runtimeScene);
 };gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects2Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects2});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDbuttonpressObjects2Objects = Hashtable.newFrom({"buttonpress": gdjs.HubCode.GDbuttonpressObjects2});
 gdjs.HubCode.mapOfGDgdjs_9546HubCode_9546GDSaveObjects2Objects = Hashtable.newFrom({"Save": gdjs.HubCode.GDSaveObjects2});
-gdjs.HubCode.userFunc0xa1c2170 = function GDJSInlineCode(runtimeScene) {
+gdjs.HubCode.userFunc0x5262140 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 // ----------------------------
 // GDevelop JS Event: Generate Encrypted Layout Code + Username
@@ -28996,7 +28996,7 @@ if (isConditionTrue_0) {
 {
 
 
-gdjs.HubCode.userFunc0xa1c2170(runtimeScene);
+gdjs.HubCode.userFunc0x5262140(runtimeScene);
 
 }
 
